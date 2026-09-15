@@ -5,8 +5,8 @@
 		"site": "https://golden.rest/",
 		"lang": "‎العربية",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/dilartube.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/dilartube/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/dilartube.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/dilartube/icon.png"
 	},
 	{
 		"id": "galaxynovels",
@@ -14,8 +14,8 @@
 		"site": "https://galaxynovels.com/",
 		"lang": "‎العربية",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/galaxynovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/galaxynovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/galaxynovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/galaxynovels/icon.png"
 	},
 	{
 		"id": "markazriwayat",
@@ -23,8 +23,8 @@
 		"site": "https://markazriwayat.com/",
 		"lang": "‎العربية",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/Markazriwayat.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/markazriwayat/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/Markazriwayat.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/markazriwayat/icon.png"
 	},
 	{
 		"id": "rewayahfans",
@@ -32,8 +32,8 @@
 		"site": "https://rewayahfans.net/",
 		"lang": "‎العربية",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/rewayahfans.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/rewayahfans/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/rewayahfans.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/rewayahfans/icon.png"
 	},
 	{
 		"id": "rewayatclub",
@@ -41,8 +41,8 @@
 		"site": "https://rewayat.club/",
 		"lang": "‎العربية",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/rewayatclub.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/rewayatclub/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/rewayatclub.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/rewayatclub/icon.png"
 	},
 	{
 		"id": "rewayatfans",
@@ -50,8 +50,8 @@
 		"site": "https://rewayatfans.com/",
 		"lang": "‎العربية",
 		"version": "4.2.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/rewayatfans.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/rewayatfans/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/rewayatfans.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/rewayatfans/icon.png"
 	},
 	{
 		"id": "seanovel",
@@ -59,8 +59,8 @@
 		"site": "https://seanovel.org/",
 		"lang": "‎العربية",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/seanovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/seanovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/seanovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/seanovel/icon.png"
 	},
 	{
 		"id": "sunovels",
@@ -68,8 +68,8 @@
 		"site": "https://sunovels.com/",
 		"lang": "‎العربية",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/arabic/sunovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ar/sunovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/arabic/sunovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ar/sunovels/icon.png"
 	},
 	{
 		"id": "69shu",
@@ -77,8 +77,8 @@
 		"site": "https://www.69shu.xyz",
 		"lang": "中文, 汉语, 漢語",
 		"version": "0.2.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/69shu.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/69shu/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/69shu.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/69shu/icon.png"
 	},
 	{
 		"id": "ixdzs8",
@@ -86,8 +86,8 @@
 		"site": "https://ixdzs8.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "2.2.9",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/ixdzs8.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/ixdzs8/favicon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/ixdzs8.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/ixdzs8/favicon.png"
 	},
 	{
 		"id": "linovel",
@@ -95,8 +95,8 @@
 		"site": "https://www.linovel.net",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/linovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/linovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/linovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/linovel/icon.png"
 	},
 	{
 		"id": "linovelib",
@@ -104,8 +104,8 @@
 		"site": "https://www.bilinovel.com",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.2.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/linovelib.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/linovelib/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/linovelib.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/linovelib/icon.png"
 	},
 	{
 		"id": "linovelib_tw",
@@ -113,8 +113,8 @@
 		"site": "https://tw.linovelib.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/linovelib_tw.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/linovelib/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/linovelib_tw.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/linovelib/icon.png"
 	},
 	{
 		"id": "novel543",
@@ -122,8 +122,8 @@
 		"site": "https://www.novel543.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/novel543.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/novel543/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/novel543.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/novel543/icon.png"
 	},
 	{
 		"id": "quanben",
@@ -131,8 +131,8 @@
 		"site": "https://www.quanben.io/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/chinese/Quanben.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/cn/quanben/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/chinese/Quanben.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/cn/quanben/icon.png"
 	},
 	{
 		"id": "animeanyway",
@@ -140,8 +140,8 @@
 		"site": "https://animeanyway.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/animeAnyway.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/animeanyway/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/animeAnyway.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/animeanyway/icon.png"
 	},
 	{
 		"id": "archiveofourown",
@@ -149,8 +149,8 @@
 		"site": "https://archiveofourown.org/",
 		"lang": "English",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/ao3.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/ao3/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/ao3.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/ao3/icon.png"
 	},
 	{
 		"id": "bakatsuki",
@@ -158,8 +158,8 @@
 		"site": "https://www.baka-tsuki.org/project/",
 		"lang": "English",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/bakaTsuki.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/bakatsuki/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/bakaTsuki.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/bakatsuki/icon.png"
 	},
 	{
 		"id": "chikari",
@@ -167,8 +167,8 @@
 		"site": "https://chikari.moe",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/chikari.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/chikari/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/chikari.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/chikari/icon.png"
 	},
 	{
 		"id": "chrysanthemumgarden",
@@ -176,8 +176,8 @@
 		"site": "https://chrysanthemumgarden.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/chrysanthemumgarden.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/chrysanthemumgarden/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/chrysanthemumgarden.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/chrysanthemumgarden/icon.png"
 	},
 	{
 		"id": "crimsonscrolls",
@@ -185,8 +185,8 @@
 		"site": "https://crimsonscrolls.net",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/crimsonscrolls.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/crimsonscrolls/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/crimsonscrolls.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/crimsonscrolls/icon.png"
 	},
 	{
 		"id": "DDL.com",
@@ -194,8 +194,8 @@
 		"site": "https://www.divinedaolibrary.com/",
 		"lang": "English",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/divinedaolibrary.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/divinedaolibrary/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/divinedaolibrary.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/divinedaolibrary/icon.png"
 	},
 	{
 		"id": "dreambigtl",
@@ -203,8 +203,8 @@
 		"site": "https://www.dreambigtl.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/dreambigtl.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/dreambigtl/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/dreambigtl.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/dreambigtl/icon.png"
 	},
 	{
 		"id": "dreamyTranslations",
@@ -212,8 +212,8 @@
 		"site": "https://dreamy-translations.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/dreamyTranslations.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/dreamyTranslations/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/dreamyTranslations.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/dreamyTranslations/icon.png"
 	},
 	{
 		"id": "fenrir",
@@ -221,8 +221,8 @@
 		"site": "https://fenrirealm.com",
 		"lang": "English",
 		"version": "1.1.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/fenrirrealm.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/fenrirrealm/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/fenrirrealm.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/fenrirrealm/icon.png"
 	},
 	{
 		"id": "fictionzone",
@@ -230,8 +230,8 @@
 		"site": "https://fictionzone.net",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/fictionzone.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/fictionzone/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/fictionzone.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/fictionzone/icon.png"
 	},
 	{
 		"id": "foxteller",
@@ -239,8 +239,8 @@
 		"site": "https://www.foxteller.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/foxteller.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/foxteller/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/foxteller.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/foxteller/icon.png"
 	},
 	{
 		"id": "FuckNovelpia",
@@ -248,8 +248,8 @@
 		"site": "https://fucknovelpia.com/",
 		"lang": "English",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/fucknovelpia.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/fucknovelpia/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/fucknovelpia.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/fucknovelpia/icon.png"
 	},
 	{
 		"id": "FWK.US",
@@ -257,8 +257,8 @@
 		"site": "https://faqwiki.us/novel",
 		"lang": "English",
 		"version": "3.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/faqwikius.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/faqwikius/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/faqwikius.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/faqwikius/icon.png"
 	},
 	{
 		"id": "genesistudio",
@@ -266,9 +266,9 @@
 		"site": "https://genesistudio.com",
 		"lang": "English",
 		"version": "2.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/genesis.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/genesis/icon.png",
-		"customCSS": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/genesis/customCSS.css"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/genesis.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/genesis/icon.png",
+		"customCSS": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/genesis/customCSS.css"
 	},
 	{
 		"id": "indratranslations",
@@ -276,8 +276,8 @@
 		"site": "https://indratranslations.com",
 		"lang": "English",
 		"version": "1.2.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/indraTranslations.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/indratranslations/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/indraTranslations.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/indratranslations/icon.png"
 	},
 	{
 		"id": "inkitt",
@@ -285,8 +285,8 @@
 		"site": "https://www.inkitt.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/inkitt.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/inkitt/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/inkitt.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/inkitt/icon.png"
 	},
 	{
 		"id": "inoveltranslation",
@@ -294,8 +294,8 @@
 		"site": "https://inoveltranslation.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/inoveltranslation.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/inoveltranslation/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/inoveltranslation.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/inoveltranslation/icon.png"
 	},
 	{
 		"id": "konkon",
@@ -303,8 +303,8 @@
 		"site": "https://konkon.ink",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/konkon.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/konkon/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/konkon.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/konkon/icon.png"
 	},
 	{
 		"id": "LeafStudio",
@@ -312,8 +312,8 @@
 		"site": "https://leafstudio.site/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/leafstudio.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/leafstudio/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/leafstudio.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/leafstudio/icon.png"
 	},
 	{
 		"id": "lightnoveltranslations",
@@ -321,8 +321,8 @@
 		"site": "https://lightnovelstranslations.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/lightnoveltranslation.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/lightnoveltranslations/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/lightnoveltranslation.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/lightnoveltranslations/icon.png"
 	},
 	{
 		"id": "lightnovelworld",
@@ -330,8 +330,8 @@
 		"site": "https://lightnovelworld.org/",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/lightnovelworld.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/lightnovelworld/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/lightnovelworld.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/lightnovelworld/icon.png"
 	},
 	{
 		"id": "lnmtl",
@@ -339,8 +339,8 @@
 		"site": "https://lnmtl.com/",
 		"lang": "English",
 		"version": "2.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/lnmtl.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/lnmtl/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/lnmtl.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/lnmtl/icon.png"
 	},
 	{
 		"id": "lnori",
@@ -348,8 +348,8 @@
 		"site": "https://lnori.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/lnori.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/lnori/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/lnori.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/lnori/icon.png"
 	},
 	{
 		"id": "mvlempyr.com",
@@ -357,8 +357,8 @@
 		"site": "https://www.mvlempyr.io/",
 		"lang": "English",
 		"version": "1.0.13",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/mvlempyr.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/mvlempyr/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/mvlempyr.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/mvlempyr/icon.png"
 	},
 	{
 		"id": "mynovels",
@@ -366,8 +366,8 @@
 		"site": "https://mynovels.su/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/mynovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/mynovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/mynovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/mynovels/icon.png"
 	},
 	{
 		"id": "NO.net",
@@ -375,8 +375,8 @@
 		"site": "https://novelsonline.org",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/NovelOnline.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelsonline/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/NovelOnline.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelsonline/icon.png"
 	},
 	{
 		"id": "novel7s",
@@ -384,8 +384,8 @@
 		"site": "https://novel7s.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novel7s.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novel7s/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novel7s.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novel7s/icon.png"
 	},
 	{
 		"id": "novelarrow",
@@ -393,8 +393,8 @@
 		"site": "https://novelarrow.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelarrow.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelarrow/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelarrow.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelarrow/icon.png"
 	},
 	{
 		"id": "novelbuddy",
@@ -402,8 +402,8 @@
 		"site": "https://novelbuddy.me/",
 		"lang": "English",
 		"version": "2.1.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelbuddy.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelbuddy/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelbuddy.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelbuddy/icon.png"
 	},
 	{
 		"id": "novelhall",
@@ -411,8 +411,8 @@
 		"site": "https://novelhall.com/",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelhall.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelhall/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelhall.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelhall/icon.png"
 	},
 	{
 		"id": "novelhi",
@@ -420,8 +420,8 @@
 		"site": "https://novelhi.com/",
 		"lang": "English",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelhi.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelhi/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelhi.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelhi/icon.png"
 	},
 	{
 		"id": "novelight",
@@ -429,8 +429,8 @@
 		"site": "https://novelight.net/",
 		"lang": "English",
 		"version": "1.1.5",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelight.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelight/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelight.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelight/icon.png"
 	},
 	{
 		"id": "novelrest",
@@ -438,8 +438,8 @@
 		"site": "https://novelrest.vercel.app",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelrest.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelrest/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelrest.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelrest/icon.png"
 	},
 	{
 		"id": "novelupdates",
@@ -447,9 +447,9 @@
 		"site": "https://www.novelupdates.com/",
 		"lang": "English",
 		"version": "0.9.9",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/novelupdates.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelupdates/icon.png",
-		"customCSS": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/novelupdates/customCSS.css"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/novelupdates.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelupdates/icon.png",
+		"customCSS": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/novelupdates/customCSS.css"
 	},
 	{
 		"id": "pawread",
@@ -457,8 +457,8 @@
 		"site": "https://m.pawread.com/",
 		"lang": "English",
 		"version": "2.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/pawread.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/pawread/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/pawread.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/pawread/icon.png"
 	},
 	{
 		"id": "peachpuff",
@@ -466,8 +466,8 @@
 		"site": "https://peachpuff.in/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/peachpuff.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/english/peachpuff/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/peachpuff.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/english/peachpuff/icon.png"
 	},
 	{
 		"id": "puffinfolio",
@@ -475,8 +475,8 @@
 		"site": "https://www.puffinfolio.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/puffinFolio.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/puffinfolio/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/puffinFolio.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/puffinfolio/icon.png"
 	},
 	{
 		"id": "rainofsnow",
@@ -484,8 +484,8 @@
 		"site": "https://rainofsnow.com/",
 		"lang": "English",
 		"version": "1.1.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/rainofsnow.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/rainofsnow/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/rainofsnow.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/rainofsnow/icon.png"
 	},
 	{
 		"id": "readfrom",
@@ -493,8 +493,8 @@
 		"site": "https://readfrom.net/",
 		"lang": "English",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/readfrom.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/readfrom/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/readfrom.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/readfrom/icon.png"
 	},
 	{
 		"id": "ReLib",
@@ -502,8 +502,8 @@
 		"site": "https://re-library.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/relibrary.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/relibrary/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/relibrary.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/relibrary/icon.png"
 	},
 	{
 		"id": "royalroad",
@@ -511,8 +511,8 @@
 		"site": "https://www.royalroad.com/",
 		"lang": "English",
 		"version": "2.3.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/royalroad.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/royalroad/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/royalroad.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/royalroad/icon.png"
 	},
 	{
 		"id": "scribblehub",
@@ -520,8 +520,8 @@
 		"site": "https://www.scribblehub.com/",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/scribblehub.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/scribblehub/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/scribblehub.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/scribblehub/icon.png"
 	},
 	{
 		"id": "skythewoodtranslations",
@@ -529,8 +529,8 @@
 		"site": "https://skythewood.blogspot.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/skythewood.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/skythewood/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/skythewood.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/skythewood/icon.png"
 	},
 	{
 		"id": "storyseedling",
@@ -538,8 +538,8 @@
 		"site": "https://storyseedling.com/",
 		"lang": "English",
 		"version": "1.0.6",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/StorySeedling.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/storyseedling/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/StorySeedling.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/storyseedling/icon.png"
 	},
 	{
 		"id": "vynovel",
@@ -547,8 +547,8 @@
 		"site": "https://vynovel.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/vynovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/vynovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/vynovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/vynovel/icon.png"
 	},
 	{
 		"id": "webnovel",
@@ -556,8 +556,8 @@
 		"site": "https://www.webnovel.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/webnovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/webnovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/webnovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/webnovel/icon.png"
 	},
 	{
 		"id": "witchculttranslations",
@@ -565,8 +565,8 @@
 		"site": "https://witchculttranslation.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/wct.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/wct/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/wct.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/wct/icon.png"
 	},
 	{
 		"id": "WTRLAB",
@@ -574,8 +574,8 @@
 		"site": "https://wtr-lab.com/",
 		"lang": "English",
 		"version": "1.1.6",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/wtrlab.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/wtrlab/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/wtrlab.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/wtrlab/icon.png"
 	},
 	{
 		"id": "wuxiaworld",
@@ -583,8 +583,8 @@
 		"site": "https://www.wuxiaworld.com/",
 		"lang": "English",
 		"version": "0.5.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/english/wuxiaworld.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/en/wuxiaworld/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/english/wuxiaworld.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/en/wuxiaworld/icon.png"
 	},
 	{
 		"id": "chireads",
@@ -592,8 +592,8 @@
 		"site": "https://chireads.com",
 		"lang": "Français",
 		"version": "2.3.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/chireads.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/chireads/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/chireads.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/chireads/icon.png"
 	},
 	{
 		"id": "harkeneliwood",
@@ -601,8 +601,8 @@
 		"site": "https://harkeneliwood.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/harkeneliwood.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/harkeneliwood/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/harkeneliwood.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/harkeneliwood/icon.png"
 	},
 	{
 		"id": "jgarden",
@@ -610,8 +610,8 @@
 		"site": "https://j-garden.fr/",
 		"lang": "Français",
 		"version": "1.0.5",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/jgarden.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/jgarden/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/jgarden.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/jgarden/icon.png"
 	},
 	{
 		"id": "kisswood",
@@ -619,8 +619,8 @@
 		"site": "https://kisswood.eu",
 		"lang": "Français",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/kisswood.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/kisswood/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/kisswood.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/kisswood/icon.png"
 	},
 	{
 		"id": "lightnovelvf",
@@ -628,8 +628,8 @@
 		"site": "https://www.lightnovelvf.com/",
 		"lang": "Français",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/lightnovelvf.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/lightnovelvf/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/lightnovelvf.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/lightnovelvf/icon.png"
 	},
 	{
 		"id": "noveldeglace",
@@ -637,8 +637,8 @@
 		"site": "https://noveldeglace.com/",
 		"lang": "Français",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/noveldeglace.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/noveldeglace/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/noveldeglace.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/noveldeglace/icon.png"
 	},
 	{
 		"id": "novelfrance",
@@ -646,8 +646,8 @@
 		"site": "https://novelfrance.fr/",
 		"lang": "Français",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/novelfrance.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/novelfrance/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/novelfrance.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/novelfrance/icon.png"
 	},
 	{
 		"id": "novhell",
@@ -655,8 +655,8 @@
 		"site": "https://novhell.org",
 		"lang": "Français",
 		"version": "1.0.5",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/novhell.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/novhell/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/novhell.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/novhell/icon.png"
 	},
 	{
 		"id": "rezerowebnovelfr",
@@ -664,8 +664,8 @@
 		"site": "https://rezerowebnovelfr.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/rezerowebnovelfr.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/rezerowebnovelfr/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/rezerowebnovelfr.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/rezerowebnovelfr/icon.png"
 	},
 	{
 		"id": "tradindex",
@@ -673,8 +673,8 @@
 		"site": "https://trad-index.com/",
 		"lang": "Français",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/tradindex.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/tradindex/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/tradindex.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/tradindex/icon.png"
 	},
 	{
 		"id": "warriorlegendtrad",
@@ -682,8 +682,8 @@
 		"site": "https://warriorlegendtrad.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/warriorlegendtrad.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/warriorlegendtrad/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/warriorlegendtrad.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/warriorlegendtrad/icon.png"
 	},
 	{
 		"id": "wuxialnscantrad",
@@ -691,8 +691,8 @@
 		"site": "https://wuxialnscantrad.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/wuxialnscantrad.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/wuxialnscantrad/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/wuxialnscantrad.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/wuxialnscantrad/icon.png"
 	},
 	{
 		"id": "xiaowaz",
@@ -700,8 +700,8 @@
 		"site": "https://xiaowaz.fr",
 		"lang": "Français",
 		"version": "1.0.5",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/french/xiaowaz.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/fr/xiaowaz/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/french/xiaowaz.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/fr/xiaowaz/icon.png"
 	},
 	{
 		"id": "IDWN.id",
@@ -709,8 +709,8 @@
 		"site": "https://indowebnovel.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.2.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/indonesian/indowebnovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/id/indowebnovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/indonesian/indowebnovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/id/indowebnovel/icon.png"
 	},
 	{
 		"id": "sakura.id",
@@ -718,8 +718,8 @@
 		"site": "https://sakuranovel.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/indonesian/sakuranovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/id/sakuranovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/indonesian/sakuranovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/id/sakuranovel/icon.png"
 	},
 	{
 		"id": "kakuyomu",
@@ -727,8 +727,8 @@
 		"site": "https://kakuyomu.jp",
 		"lang": "日本語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/japanese/kakuyomu.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/jp/kakuyomu/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/japanese/kakuyomu.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/jp/kakuyomu/icon.png"
 	},
 	{
 		"id": "nocsyosetu",
@@ -736,8 +736,8 @@
 		"site": "https://noc.syosetu.com",
 		"lang": "日本語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/japanese/nocsyosetu.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/https://noc.syosetu.com/favicon.ico"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/japanese/nocsyosetu.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/https://noc.syosetu.com/favicon.ico"
 	},
 	{
 		"id": "yomou.syosetu",
@@ -745,8 +745,8 @@
 		"site": "https://yomou.syosetu.com/",
 		"lang": "日本語",
 		"version": "1.1.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/japanese/Syosetu.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/jp/syosetu/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/japanese/Syosetu.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/jp/syosetu/icon.png"
 	},
 	{
 		"id": "agit.xyz",
@@ -754,8 +754,8 @@
 		"site": "https://agit664.xyz",
 		"lang": "조선말, 한국어",
 		"version": "3.1.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/korean/Agitoon.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/kr/agitoon/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/korean/Agitoon.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/kr/agitoon/icon.png"
 	},
 	{
 		"id": "novelki.pl",
@@ -763,8 +763,8 @@
 		"site": "https://novelki.pl",
 		"lang": "Polski",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/polish/novelki.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/pl/novelki/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/polish/novelki.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/pl/novelki/icon.png"
 	},
 	{
 		"id": "blogdoamonnovels",
@@ -772,8 +772,8 @@
 		"site": "https://www.blogdoamonnovels.com",
 		"lang": "Português",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/portuguese/blogdoamonnovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/pt-br/blogdoamonnovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/portuguese/blogdoamonnovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/pt-br/blogdoamonnovels/icon.png"
 	},
 	{
 		"id": "illusia",
@@ -781,8 +781,8 @@
 		"site": "https://illusia.com.br",
 		"lang": "Português",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/portuguese/illusia.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/pt-br/illusia/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/portuguese/illusia.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/pt-br/illusia/icon.png"
 	},
 	{
 		"id": "novelmania.com.br",
@@ -790,8 +790,8 @@
 		"site": "https://novelmania.com.br",
 		"lang": "Português",
 		"version": "2.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/portuguese/novelmania.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/pt-br/novelmania/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/portuguese/novelmania.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/pt-br/novelmania/icon.png"
 	},
 	{
 		"id": "tsundoku",
@@ -799,8 +799,8 @@
 		"site": "https://tsundoku.com.br",
 		"lang": "Português",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/portuguese/tsundoku.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/pt-br/tsundoku/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/portuguese/tsundoku.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/pt-br/tsundoku/icon.png"
 	},
 	{
 		"id": "AT",
@@ -808,8 +808,8 @@
 		"site": "https://author.today",
 		"lang": "Русский",
 		"version": "1.2.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/authortoday.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/authortoday/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/authortoday.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/authortoday/icon.png"
 	},
 	{
 		"id": "bookriver",
@@ -817,8 +817,8 @@
 		"site": "https://bookriver.ru",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/bookriver.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/bookriver/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/bookriver.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/bookriver/icon.png"
 	},
 	{
 		"id": "ficbook",
@@ -826,8 +826,8 @@
 		"site": "https://ficbook.net",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/ficbook.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/ficbook/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/ficbook.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/ficbook/icon.png"
 	},
 	{
 		"id": "jaomix.ru",
@@ -835,8 +835,8 @@
 		"site": "https://jaomix.ru",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/jaomix.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/jaomix/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/jaomix.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/jaomix/icon.png"
 	},
 	{
 		"id": "neobook",
@@ -844,8 +844,8 @@
 		"site": "https://neobook.org",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/neobook.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/neobook/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/neobook.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/neobook/icon.png"
 	},
 	{
 		"id": "ReN",
@@ -853,8 +853,8 @@
 		"site": "https://renovels.org",
 		"lang": "Русский",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/renovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/renovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/renovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/renovels/icon.png"
 	},
 	{
 		"id": "RLIB",
@@ -862,8 +862,8 @@
 		"site": "https://ranobelib.me",
 		"lang": "Русский",
 		"version": "2.2.6",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/ranobelib.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/ranobelib/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/ranobelib.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/ranobelib/icon.png"
 	},
 	{
 		"id": "RNBH.org",
@@ -871,8 +871,8 @@
 		"site": "https://ranobehub.org",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/ranobehub.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/ranobehub/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/ranobehub.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/ranobehub/icon.png"
 	},
 	{
 		"id": "RNRF",
@@ -880,8 +880,8 @@
 		"site": "https://ранобэ.рф",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/ranoberf.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/ranoberf/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/ranoberf.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/ranoberf/icon.png"
 	},
 	{
 		"id": "TL",
@@ -889,8 +889,8 @@
 		"site": "https://novel.tl",
 		"lang": "Русский",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/novelTL.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/noveltl/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/novelTL.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/noveltl/icon.png"
 	},
 	{
 		"id": "TopLiba",
@@ -898,8 +898,8 @@
 		"site": "https://topliba.com",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/topliba.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/topliba/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/topliba.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/topliba/icon.png"
 	},
 	{
 		"id": "zelluloza",
@@ -907,8 +907,8 @@
 		"site": "https://zelluloza.ru",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/russian/zelluloza.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/ru/zelluloza/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/russian/zelluloza.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/ru/zelluloza/icon.png"
 	},
 	{
 		"id": "HasuTL",
@@ -916,8 +916,8 @@
 		"site": "https://hasutl.wordpress.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/hasutl.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/hasutl/icon.jpg"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/hasutl.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/hasutl/icon.jpg"
 	},
 	{
 		"id": "nova",
@@ -925,8 +925,8 @@
 		"site": "https://novelasligeras.net",
 		"lang": "Español",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/NOVA.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/nova/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/NOVA.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/nova/icon.png"
 	},
 	{
 		"id": "novelasligera",
@@ -934,8 +934,8 @@
 		"site": "https://novelasligera.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/novelasligera.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/novelasligera/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/novelasligera.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/novelasligera/icon.png"
 	},
 	{
 		"id": "novelyra",
@@ -943,8 +943,8 @@
 		"site": "https://novelyra.com/",
 		"lang": "Español",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/novelyra.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/novelyra/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/novelyra.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/novelyra/icon.png"
 	},
 	{
 		"id": "oasistranslations",
@@ -952,8 +952,8 @@
 		"site": "https://oasistranslations.wordpress.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/oasistranslations.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/oasistranslations/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/oasistranslations.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/oasistranslations/icon.png"
 	},
 	{
 		"id": "reinowuxia",
@@ -961,8 +961,8 @@
 		"site": "http://www.reinowuxia.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/novelawuxia.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/reinowuxia/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/novelawuxia.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/reinowuxia/icon.png"
 	},
 	{
 		"id": "skynovels",
@@ -970,8 +970,8 @@
 		"site": "https://www.skynovels.net/",
 		"lang": "Español",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/skynovels.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/skynovels/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/skynovels.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/skynovels/icon.png"
 	},
 	{
 		"id": "tunovelaligera",
@@ -979,8 +979,8 @@
 		"site": "https://tunovelaligera.com",
 		"lang": "Español",
 		"version": "1.2.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/tunovelaligera.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/tunovelaligera/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/tunovelaligera.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/tunovelaligera/icon.png"
 	},
 	{
 		"id": "yuukitls",
@@ -988,8 +988,8 @@
 		"site": "https://yuukitls.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/spanish/yukitls.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/es/yuukitls/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/spanish/yukitls.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/es/yuukitls/icon.png"
 	},
 	{
 		"id": "epiknovel",
@@ -997,8 +997,8 @@
 		"site": "https://www.epiknovel.com/",
 		"lang": "Türkçe",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/turkish/epiknovel.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/tr/epiknovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/turkish/epiknovel.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/tr/epiknovel/icon.png"
 	},
 	{
 		"id": "mangatr",
@@ -1006,8 +1006,8 @@
 		"site": "https://manga-tr.com/",
 		"lang": "Türkçe",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/turkish/MangaTR.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/tr/mangatr/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/turkish/MangaTR.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/tr/mangatr/icon.png"
 	},
 	{
 		"id": "bakainua",
@@ -1015,8 +1015,8 @@
 		"site": "https://baka.in.ua",
 		"lang": "Українська",
 		"version": "3.1.7",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/ukrainian/bakainua.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/uk/bakainua/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/ukrainian/bakainua.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/uk/bakainua/icon.png"
 	},
 	{
 		"id": "smakolykytl",
@@ -1024,8 +1024,8 @@
 		"site": "https://smakolykytl.site/",
 		"lang": "Українська",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/ukrainian/smakolykytl.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/uk/smakolykytl/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/ukrainian/smakolykytl.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/uk/smakolykytl/icon.png"
 	},
 	{
 		"id": "lightnovel.vn",
@@ -1033,8 +1033,8 @@
 		"site": "https://lightnovel.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/vietnamese/lightnovelvn.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/vi/lightnovelvn/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/vietnamese/lightnovelvn.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/vi/lightnovelvn/icon.png"
 	},
 	{
 		"id": "ln.hako",
@@ -1042,8 +1042,8 @@
 		"site": "https://ln.hako.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/vietnamese/LNHako.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/vi/hakolightnovel/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/vietnamese/LNHako.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/vi/hakolightnovel/icon.png"
 	},
 	{
 		"id": "nettruyen",
@@ -1051,8 +1051,8 @@
 		"site": "https://nettruyen.com.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/vietnamese/nettruyen.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/vi/nettruyen/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/vietnamese/nettruyen.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/vi/nettruyen/icon.png"
 	},
 	{
 		"id": "truyenss.com",
@@ -1060,8 +1060,8 @@
 		"site": "https://truyenss.com",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/vietnamese/truyenss.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/vi/truyenss/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/vietnamese/truyenss.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/vi/truyenss/icon.png"
 	},
 	{
 		"id": "komga",
@@ -1069,7 +1069,7 @@
 		"site": "url",
 		"lang": "Multi",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/.js/src/plugins/multi/komga.js",
-		"iconUrl": "https://raw.githubusercontent.com/lnreader/lnreader-plugins/master/public/static/src/multi/komga/icon.png"
+		"url": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/.js/src/plugins/multi/komga.js",
+		"iconUrl": "https://raw.githubusercontent.com/tashiro-stack/lnreader-repo/main/public/static/src/multi/komga/icon.png"
 	}
 ]
